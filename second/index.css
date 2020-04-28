@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+header {
+    border: 4px solid black;
+    margin-top: 25px;
+}
+
+.rectangle {
+    background-color: #8A2BE2;
+    margin: 7px;
+    height: 190px;
+    width: 70px;
+    display: inline-block;
+}
+
+.square {
+    background-color: #228B22;
+    margin: 7px;
+    padding: 20px;
+    height: 250px;
+    width: 500px;
+    display: inline-block;
+}
+
+.circle {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: 10px;
+    background-color: skyblue;
+    display: inline-block;
+}
+
+section {
+    border: 4px dotted black;
+    margin-top: 25px;
+}
+
+.creamSquare {
+    height: 10vh;
+    width: 80vw;
+    padding: 100px;
+    box-shadow: 5px 10px #404040;
+    background-color: #FFFACD;
+    margin: 100px auto;
+}
+
+.hello {
+    width: 25vw;
+    padding: 100px;
+    margin: 50px auto;
+    border: 1px solid black;
+    font-size: 40px;
+    color: darkblue;
+    line-height: 200%;
+    text-align: center;
+    letter-spacing: 3px;
+    font-family: 'Bangers', cursive;
+}
