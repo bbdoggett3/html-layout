@@ -55,5 +55,6 @@ section {
     line-height: 200%;
     text-align: center;
     letter-spacing: 3px;
+    box-shadow: 5px 7px grey;
     font-family: 'Bangers', cursive;
 }
